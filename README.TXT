@@ -1,5 +1,5 @@
 I use Hours Keeper iOS app(https://itunes.apple.com/us/app/hours-keeper-pro-time-tracking/id559701364?mt=8) a lot when doing my remote job
-However, working hours tend to be cut into pieces, but I need my hours to be orgnized by day. So I wrote this Ruby script assembles them into per-day format.
+I need my hours to be orgnized by day, however, working hours tend to be cut into pieces. So I wrote this Ruby script to assemble them into per-day format.
 
 e.g.
 August 31 - 2.0
